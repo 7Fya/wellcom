@@ -1,1 +1,2 @@
-# wellcom
+# wellcom 
+print('欢迎')
